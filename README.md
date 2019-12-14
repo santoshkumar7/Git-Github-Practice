@@ -1,2 +1,2 @@
 # Git-Github-Practice
-Practice purpose
+This is for Practice purpose
